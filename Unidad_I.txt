@@ -48,3 +48,5 @@ Claves para un Prompt Optimo:
 - Provision de contexto esencial: Proporcionar datos específicos y antecedentes relevantes evita respuestas genéricas o fuera de foco
 - Especificacion de formato y tono: Definir si la respuesta debe ser una lista, tabla o resumen, y especificar el tono (narrativa, formal) asegura resultados alineados con las expectativas.
 - Incluir ejemplos: La tecnica Few-Shot (incluir ejemplos en los prompts) ayuda a la IA a entender mejor las expectativas, el contexto y mantener la consistencia.
+
+resumen ODIO GIT
