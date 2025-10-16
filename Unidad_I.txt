@@ -1,0 +1,50 @@
+## RESUMEN UNIDAD I: INTRODUCCION A LA INTELIGENCIA ARTIFICIAL
+
+La Inteligencia Artificial (IA) es una rama de la informática [cite: 51] que se dedica a crear sistemas capaces de realizar tareas que requieren inteligencia humana [cite: 51], como el aprendizaje y la toma de decisiones[cite: 51]. La IA busca replicar procesos cognitivos a través de algoritmos y modelos matemáticos [cite: 52] para transformar datos en acciones significativas y resolver problemas complejos[cite: 52].
+
+### Evolucion Historica de la IA
+
+* 1956: Nace la IA - El campo se formaliza en la Conferencia de Dartmouth, estableciendo sus fundamentos[cite: 12, 19, 21, 23, 25].
+* 1965: Primer programa de ajedrez - El programa "Mac Hack" muestra las capacidades iniciales de la IA en juegos[cite: 13, 26, 28, 30, 31].
+* 1980: Invierno de la IA - Se produce un descenso en la financiación y el interés[cite: 14, 32, 34, 35, 36].
+* 2012: Resurgimiento con DL (Deep Learning) - La revolución del aprendizaje profundo transforma la IA con avances en redes neuronales[cite: 15, 37, 38, 39].
+* 2023: IA en la vida diaria - La IA se integra en múltiples aspectos de la vida cotidiana, desde asistentes virtuales hasta diagnósticos médicos[cite: 17, 40].
+
+### Conceptos Clave: IA, ML y DL
+
+La Inteligencia Artificial es un campo amplio [cite: 86] que abarca el desarrollo de sistemas informáticos diseñados para llevar a cabo tareas que requieren inteligencia humana [cite: 86], incluyendo el razonamiento, la comprensión del lenguaje y la resolución de problemas[cite: 87].
+
+* Aprendizaje Automatico (ML - Machine Learning): Es un subcampo de la IA [cite: 89] que se centra en desarrollar algoritmos que permiten a las máquinas aprender de datos sin programación específica para cada tarea[cite: 89].
+* Aprendizaje Profundo (DL - Deep Learning): Es una subcategoría de ML [cite: 90] que utiliza redes neuronales complejas [cite: 90] para modelar patrones y realizar tareas avanzadas como el reconocimiento de imagen y voz[cite: 90].
+
+Ejemplo Comparativo de Deteccion de Spam[cite: 112, 113]:
+- IA clasica: reglas escritas a mano ("si contiene 'ganar dinero' -> spam")[cite: 116, 117].
+- ML: entrenar un clasificador (Bayesiano o Random Forest) con miles de correos etiquetados[cite: 119, 120].
+- DL: red Transformer profunda que lee el texto completo y capta matices (como ironía o spam en imágenes incrustadas)[cite: 122].
+
+### Aplicaciones de la IA
+
+La IA está transformando diversas industrias[cite: 66, 133]:
+- Medicina: Ayuda a detectar enfermedades con precisión [cite: 67] y en diagnósticos médicos[cite: 40].
+- Finanzas: Optimiza decisiones de inversión[cite: 67].
+- Tecnología: Potencia el desarrollo de software[cite: 68].
+- Vision por Computadora: Permite a las máquinas interpretar y analizar imágenes y videos [cite: 142], facilitando aplicaciones en sistemas de seguridad, diagnósticos médicos y vehículos autónomos[cite: 142].
+- Procesamiento del Lenguaje Natural (PLN): Permite a las máquinas interpretar y responder a texto y voz de forma humana [cite: 148], utilizándose en asistentes digitales y traductores automáticos[cite: 149].
+- Robotica: Combina IA, sensores y actuadores para interactuar con el mundo físico [cite: 152], optimizando procesos de ensamblaje y asistiendo en hospitales[cite: 153].
+- IA Generativa: Tecnologías que pueden crear textos, imágenes, música y más [cite: 167], expandiendo la creatividad y productividad[cite: 168].
+
+### Desafios Eticos y Sesgos en la IA
+
+* Etica en IA: Implica respetar la privacidad y transparencia en el diseño de sistemas inteligentes[cite: 156].
+* Sesgos en IA: Surgen cuando los datos de entrenamiento reflejan prejuicios y desigualdades existentes[cite: 158]. Esto puede llevar a decisiones automatizadas injustas [cite: 159], afectando a grupos marginados en áreas como el empleo y la justicia[cite: 159]. Es crucial corregir estos sesgos para garantizar resultados equitativos[cite: 160].
+
+### Ingenieria de Prompts
+
+La ingeniería de prompts es crucial para guiar modelos de IA[cite: 173]. Un prompt es una instrucción o conjunto de instrucciones que se proporciona a un modelo de IA para guiar su respuesta[cite: 185].
+
+Claves para un Prompt Optimo:
+- Definicion de roles: Definir el rol de la IA (ej. "profesor universitario") es fundamental para guiar sus respuestas y establecer un marco claro[cite: 194].
+- Definicion clara de la tarea y objetivo: Utilizar verbos directos (analizar, resumir, comparar, crear, evaluar, traducir) ayuda a establecer el contexto semántico[cite: 201, 202].
+- Provision de contexto esencial: Proporcionar datos específicos y antecedentes relevantes evita respuestas genéricas o fuera de foco[cite: 218, 222].
+- Especificacion de formato y tono: Definir si la respuesta debe ser una lista, tabla o resumen [cite: 233], y especificar el tono (narrativa, formal) [cite: 235, 236] asegura resultados alineados con las expectativas.
+- Incluir ejemplos: La tecnica Few-Shot (incluir ejemplos en los prompts) ayuda a la IA a entender mejor las expectativas, el contexto y mantener la consistencia[cite: 240, 241, 242].
